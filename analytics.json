@@ -1,0 +1,14 @@
+{
+  "totalLeads": 0,
+  "hotLeads": 0,
+  "convertedLeads": 0,
+  "revenue": 0,
+  "leadsByCategory": {},
+  "dailyLeads": [],
+  "conversionFunnel": {
+    "new": 0,
+    "warm": 0,
+    "hot": 0,
+    "converted": 0
+  }
+}
